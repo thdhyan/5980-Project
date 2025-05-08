@@ -1,0 +1,4 @@
+[submodule "home-robot"]
+	path = home-robot
+	url = https://github.com/facebookresearch/home-robot.git
+	branch = home-robot-ovmm-challenge-2024
